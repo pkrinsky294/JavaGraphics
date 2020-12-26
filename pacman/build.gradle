@@ -1,0 +1,11 @@
+
+plugins {
+    id 'java'
+    id 'application'
+}
+
+mainClassName = 'pacman.PacmanGraphics'
+
+repositories {
+    jcenter()
+}
